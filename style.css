@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: center;
+    justify-content: center;
+    align-items: normal;
+    height: 40px;
+    margin:50px;
+    background-color: rgb(233, 241, 245);
+    border: 10px;
+    width:  300px;
+    padding: 400px;
+    
+}
+.container {
+    text-align: center;
+    background: 500px;
+    background-color: rgb(122, 132, 112);
+
+}
+.color-box{
+    width: 200px;
+    background-color: aquamarine;
+}
